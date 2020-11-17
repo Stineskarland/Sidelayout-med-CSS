@@ -48,7 +48,7 @@
   background-color:#800080;/*fiolett farge*/
 }
 .innpakning {
-  width:800px; /*innpakningens bredde*/
+  width:70%; /*innpakningens bredde*/
   background-color:#404040;/*en mørk gråfarge*/
   margin: auto; /*like stor høyre og venstremarg*/
   display:flex; /*angir at vi vil bruke flexbox*/
