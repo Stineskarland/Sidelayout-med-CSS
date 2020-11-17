@@ -1,1 +1,49 @@
 .boks1{
+  width:70%;/*boksens bredde i prosent*/
+  height:60px; /*boksens høyde i piksler*/
+  maring: 5px auto; /*topp- og bunnmarg 5px, sidemarg auto*/
+  padding:5px; /*avstand mellom bokskant og innhold*/
+  background-color:#ff0000;/*rød farge*/
+}
+.boks2{
+  width:70%;/*boksens bredde i prosent*/
+  height:60px; /*boksens høyde i piksler*/
+  maring: 5px auto; /*topp- og bunnmarg 5px, sidemarg auto*/
+  padding:5px; /*avstand mellom bokskant og innhold*/
+  background-color:#ffa500;/*oransje farge*/
+}
+.boks3{
+  width:70%;/*boksens bredde i prosent*/
+  height:60px; /*boksens høyde i piksler*/
+  maring: 5px auto; /*topp- og bunnmarg 5px, sidemarg auto*/
+  padding:5px; /*avstand mellom bokskant og innhold*/
+  background-color:#ffff00;/*gul farge*/
+}
+.boks4{
+  width:70%;/*boksens bredde i prosent*/
+  height:60px; /*boksens høyde i piksler*/
+  maring: 5px auto; /*topp- og bunnmarg 5px, sidemarg auto*/
+  padding:5px; /*avstand mellom bokskant og innhold*/
+  background-color:#008000;/*grønn farge*/
+}
+.boks5{
+  width:70%;/*boksens bredde i prosent*/
+  height:60px; /*boksens høyde i piksler*/
+  maring: 5px auto; /*topp- og bunnmarg 5px, sidemarg auto*/
+  padding:5px; /*avstand mellom bokskant og innhold*/
+  background-color:#0000ff;/*blå farge*/
+}
+.boks6{
+  width:70%;/*boksens bredde i prosent*/
+  height:60px; /*boksens høyde i piksler*/
+  maring: 5px auto; /*topp- og bunnmarg 5px, sidemarg auto*/
+  padding:5px; /*avstand mellom bokskant og innhold*/
+  background-color:#0000a0;/*indigo farge*/
+}
+.boks7{
+  width:70%;/*boksens bredde i prosent*/
+  height:60px; /*boksens høyde i piksler*/
+  maring: 5px auto; /*topp- og bunnmarg 5px, sidemarg auto*/
+  padding:5px; /*avstand mellom bokskant og innhold*/
+  background-color:#800080;/*fiolett farge*/
+}
